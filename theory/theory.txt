@@ -1,10 +1,9 @@
 План
 26.01.2020 - 01.03.2020
-hackerrank.com 30 Days of Code
 Грокаем алгоритмы
 Думай как программист 
 Data Structures & Algorithms
 Python 3: Deep Dive
 Лутц изучаем python
 Разбор задач leetcode.com 
-Разбор задач hackerrank.com
+*Разбор задач hackerrank.com
