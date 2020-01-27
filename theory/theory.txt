@@ -4,7 +4,6 @@
 Грокаем алгоритмы
 Думай как программист 
 Роберт Лафоре структуры данных алгоритмы java
-Data Structures & Algorithms
 Python 3: Deep Dive
 Лутц изучаем python
 Разбор задач leetcode.com 
