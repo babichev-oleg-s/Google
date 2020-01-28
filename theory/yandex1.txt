@@ -1,0 +1,6 @@
+
+    Вирт, «Алгоритмы + структуры данных = программы»
+    Кормен, Ривест, и другие «Алгоритмы: построение и анализ»
+    Липпман «Основы программирования на С++»
+    Scott Meyers. Effective C++. More Effective C++. Effective STL
+    Herb Sutter «Exceptional C++» «More Exceptional C++»
